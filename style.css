@@ -1,0 +1,151 @@
+.heading {
+    width: 1366px;
+    height: 94px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 30px #2b272729;
+    opacity: 1;
+
+}
+
+
+
+.lists {
+   text-align: left;
+   font: normal normal bold 40px/49px Inter;
+   letter-spacing: 0px;
+   color: #00A5EC;
+   padding-top: 20px;
+   
+}
+h1 {
+  text-align: left;
+  font: normal normal bold 40px/49px Inter;
+  letter-spacing: 0px;
+  color: #424242;
+  margin-left: 50px;
+  padding-top: 20px;
+  
+  
+}
+.icons { 
+    color: #00A5EC;
+    font-size: 35px;
+    position:absolute ;
+    right: 250px;
+    
+}
+.one {
+    text-align: left;
+    font: normal normal normal 22px/26px Inter;
+    letter-spacing: 0px;
+    color: #424242;
+    opacity: 1;
+    position:absolute ;
+    right: 100px;
+}
+.container {
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+   
+}
+.child1 {
+
+    width: 200px;
+    height: 208px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 3px solid #EDEDED;
+    border-radius: 10px;
+    opacity: 1;
+    padding: 30px;
+    color: #00A5EC;
+    letter-spacing: 0px;
+    text-align: left;
+    font: normal normal medium 20px/24px Inter;
+    background-color:white;
+    
+    
+    
+
+}
+
+.child2 {
+    width: 200px;
+    height: 208px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 3px solid #EDEDED;
+    border-radius: 10px;
+    text-align: left;
+    font: normal normal medium 20px/24px Inter;
+    letter-spacing: 0px;
+    color: #00A5EC;
+    opacity: 1;
+    padding: 30px;
+    background-color: white;
+    
+    
+}
+
+.child3 {
+    width: 200px;
+    height: 208px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 3px solid #EDEDED;
+    border-radius: 10px;
+    text-align: left;
+    font: normal normal medium 20px/24px Inter;
+    letter-spacing: 0px;
+    color: #00A5EC;
+    opacity: 1;
+    padding: 30px;
+    background-color: white;
+    
+    
+  
+    
+}
+
+.child4 {
+    width: 200px;
+    height: 208px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 3px solid #EDEDED;
+    border-radius: 10px;
+    text-align: left;
+    font: normal normal medium 20px/24px Inter;
+    letter-spacing: 0px;
+    color: #00A5EC;
+    opacity: 1;
+    padding: 30px;
+    background-color: white;
+    margin-right: 800px;
+    margin-top: 20px;
+
+    
+    
+   
+   
+
+    
+    
+}
+
+.child5{
+    width: 200px;
+    height: 208px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 3px solid #EDEDED;
+    border-radius: 10px;
+    text-align: left;
+    font: normal normal medium 20px/24px Inter;
+    letter-spacing: 0px;
+    color: #00A5EC;
+    opacity: 1;
+    padding: 30px;
+    background-color: white;
+    position: absolute;
+    top: 526px;
+    left: 507px;
+    margin-left: 32px;
+}
+ 
